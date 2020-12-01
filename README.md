@@ -1,7 +1,7 @@
 # appinventorcpsprojetofinal
 Projeto Final CPS App Inventor
 
-Consiste em um app simples onde o jogador não pode "deixar a bolinha cair". Ele tem uma barra que corresponde a 1/3 da tela onde ele precisa "acertar" a bolinha.
+Consiste em um app simples onde o jogador não pode "deixar a bolinha cair". Ele tem uma barra que corresponde a 1/4 da tela onde ele precisa "acertar" a bolinha.
 
 Basicamente um "Ping-Pong" individual.
 
